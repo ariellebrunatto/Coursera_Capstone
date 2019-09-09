@@ -1,0 +1,655 @@
+Postcode	City/town name	Street	Firm	Region	Country
+1050	Kobenhavn K	Kongens Nytorv		False	1
+1051	Kobenhavn K	Nyhavn		False	1
+1052	Kobenhavn K	Herluf Trolles Gade		False	1
+1053	Kobenhavn K	Cort Adelers Gade		False	1
+1054	Kobenhavn K	Peder Skrams Gade		False	1
+1055	Kobenhavn K	Tordenskjoldsgade		False	1
+1055	Kobenhavn K	August Bournonvilles Passage		False	1
+1056	Kobenhavn K	Heibergsgade		False	1
+1057	Kobenhavn K	Holbergsgade		False	1
+1058	Kobenhavn K	Havnegade		False	1
+1059	Kobenhavn K	Niels Juels Gade		False	1
+1060	Kobenhavn K	Holmens Kanal		False	1
+1061	Kobenhavn K	Ved Stranden		False	1
+1062	Kobenhavn K	Boldhusgade		False	1
+1063	Kobenhavn K	Laksegade		False	1
+1064	Kobenhavn K	Asylgade		False	1
+1065	Kobenhavn K	Fortunstraede		False	1
+1066	Kobenhavn K	Admiralgade		False	1
+1067	Kobenhavn K	Nikolaj Plads		False	1
+1068	Kobenhavn K	Nikolajgade		False	1
+1069	Kobenhavn K	Bremerholm		False	1
+1070	Kobenhavn K	Vingardstraede		False	1
+1071	Kobenhavn K	Dybensgade		False	1
+1072	Kobenhavn K	Lille Kirkestraede		False	1
+1073	Kobenhavn K	Store Kirkestraede		False	1
+1074	Kobenhavn K	Lille Kongensgade		False	1
+1092	Kobenhavn K	Holmens Kanal 2-12	Danske Bank A/S	False	1
+1093	Kobenhavn K	Havnegade 5	Danmarks Nationalbank	False	1
+1095	Kobenhavn K	Kongens Nytorv 13	Magasin du Nord	False	1
+1098	Kobenhavn K	Esplanaden 50	A.P. Moller	False	1
+1100	Kobenhavn K	ostergade		False	1
+1101	Kobenhavn K	Ny ostergade		False	1
+1102	Kobenhavn K	Pistolstraede		False	1
+1103	Kobenhavn K	Hovedvagtsgade		False	1
+1104	Kobenhavn K	Ny Adelgade		False	1
+1105	Kobenhavn K	Kristen Bernikows Gade		False	1
+1106	Kobenhavn K	Antonigade		False	1
+1107	Kobenhavn K	Gronnegade		False	1
+1110	Kobenhavn K	Store Regnegade		False	1
+1111	Kobenhavn K	Christian IX's Gade		False	1
+1112	Kobenhavn K	Pilestraede		False	1
+1113	Kobenhavn K	Silkegade		False	1
+1114	Kobenhavn K	Kronprinsensgade		False	1
+1115	Kobenhavn K	Klareboderne		False	1
+1116	Kobenhavn K	Montergade		False	1
+1117	Kobenhavn K	Gammel Mont		False	1
+1118	Kobenhavn K	Svaertegade		False	1
+1119	Kobenhavn K	Landemaerket		False	1
+1120	Kobenhavn K	Vognmagergade		False	1
+1121	Kobenhavn K	Lonporten		False	1
+1122	Kobenhavn K	Sjaeleboderne		False	1
+1123	Kobenhavn K	Gothersgade		False	1
+1124	Kobenhavn K	abenra		False	1
+1125	Kobenhavn K	Suhmsgade		False	1
+1126	Kobenhavn K	Pustervig		False	1
+1127	Kobenhavn K	Hauser Plads		False	1
+1128	Kobenhavn K	Hausergade		False	1
+1129	Kobenhavn K	Sankt Gertruds Straede		False	1
+1130	Kobenhavn K	Rosenborggade		False	1
+1131	Kobenhavn K	Tornebuskegade		False	1
+1140	Kobenhavn K	Montergade 19	Dagbladet Borsen	False	1
+1147	Kobenhavn K	Pilestraede 34	Berlingske Tidende	False	1
+1148	Kobenhavn K	Vognmagergade 11	Egmont	False	1
+1150	Kobenhavn K	Kobmagergade		False	1
+1151	Kobenhavn K	Valkendorfsgade		False	1
+1152	Kobenhavn K	Lovstraede		False	1
+1153	Kobenhavn K	Niels Hemmingsens Gade		False	1
+1154	Kobenhavn K	Grabrodretorv		False	1
+1155	Kobenhavn K	Kejsergade		False	1
+1156	Kobenhavn K	Grabrodrestraede		False	1
+1157	Kobenhavn K	Klosterstraede		False	1
+1158	Kobenhavn K	Skoubogade		False	1
+1159	Kobenhavn K	Skindergade		False	1
+1160	Kobenhavn K	Amagertorv		False	1
+1161	Kobenhavn K	Vimmelskaftet		False	1
+1162	Kobenhavn K	Jorcks Passage		False	1
+1164	Kobenhavn K	Nygade		False	1
+1165	Kobenhavn K	Norregade		False	1
+1165	Kobenhavn K	Sankt Petri Passage		False	1
+1166	Kobenhavn K	Dyrkob		False	1
+1167	Kobenhavn K	Bispetorvet		False	1
+1168	Kobenhavn K	Frue Plads		False	1
+1169	Kobenhavn K	Store Kannikestraede		False	1
+1170	Kobenhavn K	Lille Kannikestraede		False	1
+1171	Kobenhavn K	Fiolstraede		False	1
+1172	Kobenhavn K	Krystalgade		False	1
+1173	Kobenhavn K	Peder Hvitfeldts Straede		False	1
+1174	Kobenhavn K	Rosengarden		False	1
+1175	Kobenhavn K	Kultorvet		False	1
+1200	Kobenhavn K	Hojbro Plads		False	1
+1201	Kobenhavn K	Laederstraede		False	1
+1202	Kobenhavn K	Gammel Strand		False	1
+1203	Kobenhavn K	Nybrogade		False	1
+1204	Kobenhavn K	Magstraede		False	1
+1205	Kobenhavn K	Snaregade		False	1
+1206	Kobenhavn K	Nabolos		False	1
+1207	Kobenhavn K	Hyskenstraede		False	1
+1208	Kobenhavn K	Kompagnistraede		False	1
+1209	Kobenhavn K	Badstuestraede		False	1
+1210	Kobenhavn K	Knabrostraede		False	1
+1211	Kobenhavn K	Brolaeggerstraede		False	1
+1212	Kobenhavn K	Vindebrogade		False	1
+1213	Kobenhavn K	Bertel Thorvaldsens Plads		False	1
+1214	Kobenhavn K	Tojhusgade		False	1
+1215	Kobenhavn K	Borsgade		False	1
+1216	Kobenhavn K	Slotsholmsgade		False	1
+1217	Kobenhavn K	Borsen		False	1
+1218	Kobenhavn K	Christiansborg		False	1
+1218	Kobenhavn K	Christiansborg Ridebane		False	1
+1218	Kobenhavn K	Christiansborg Slotsplads		False	1
+1218	Kobenhavn K	Prins Jorgens Gard		False	1
+1218	Kobenhavn K	Proviantpassagen		False	1
+1218	Kobenhavn K	Rigsdagsgarden		False	1
+1220	Kobenhavn K	Frederiksholms Kanal		False	1
+1221	Kobenhavn K	Soren Kierkegaards Plads		False	1
+1240	Kobenhavn K	Christiansborg	Folketinget	False	1
+1250	Kobenhavn K	Sankt Annae Plads		False	1
+1251	Kobenhavn K	Kvaesthusgade		False	1
+1252	Kobenhavn K	Kvaesthusbroen		False	1
+1253	Kobenhavn K	Toldbodgade		False	1
+1254	Kobenhavn K	Lille Strandstraede		False	1
+1255	Kobenhavn K	Store Strandstraede		False	1
+1256	Kobenhavn K	Amaliegade		False	1
+1257	Kobenhavn K	Amalienborg		False	1
+1259	Kobenhavn K	Nordre Toldbod		False	1
+1259	Kobenhavn K	Trekroner		False	1
+1260	Kobenhavn K	Bredgade		False	1
+1261	Kobenhavn K	Palaegade		False	1
+1263	Kobenhavn K	Churchillparken		False	1
+1263	Kobenhavn K	Esplanaden		False	1
+1264	Kobenhavn K	Store Kongensgade		False	1
+1265	Kobenhavn K	Frederiksgade		False	1
+1266	Kobenhavn K	Bornholmsgade		False	1
+1267	Kobenhavn K	Hammerensgade		False	1
+1268	Kobenhavn K	Jens Kofods Gade		False	1
+1270	Kobenhavn K	Gronningen		False	1
+1271	Kobenhavn K	Poul Ankers Gade		False	1
+1291	Kobenhavn K	Sankt Annae Plads 26-28	J. Lauritzen A/S	False	1
+1300	Kobenhavn K	Borgergade		False	1
+1301	Kobenhavn K	Landgreven		False	1
+1302	Kobenhavn K	Dronningens Tvaergade		False	1
+1303	Kobenhavn K	Hindegade		False	1
+1304	Kobenhavn K	Adelgade		False	1
+1306	Kobenhavn K	Kronprinsessegade		False	1
+1307	Kobenhavn K	Georg Brandes Plads		False	1
+1307	Kobenhavn K	Solvgade		False	1
+1308	Kobenhavn K	Klerkegade		False	1
+1309	Kobenhavn K	Rosengade		False	1
+1310	Kobenhavn K	Fredericiagade		False	1
+1311	Kobenhavn K	Olfert Fischers Gade		False	1
+1312	Kobenhavn K	Gammelvagt		False	1
+1313	Kobenhavn K	Sankt Pauls Gade		False	1
+1314	Kobenhavn K	Sankt Pauls Plads		False	1
+1315	Kobenhavn K	Raevegade		False	1
+1316	Kobenhavn K	Rigensgade		False	1
+1317	Kobenhavn K	Stokhusgade		False	1
+1318	Kobenhavn K	Krusemyntegade		False	1
+1319	Kobenhavn K	Gernersgade		False	1
+1320	Kobenhavn K	Haregade		False	1
+1321	Kobenhavn K	Tigergade		False	1
+1322	Kobenhavn K	Suensonsgade		False	1
+1323	Kobenhavn K	Hjertensfrydsgade		False	1
+1324	Kobenhavn K	Elsdyrsgade		False	1
+1325	Kobenhavn K	Delfingade		False	1
+1326	Kobenhavn K	Krokodillegade		False	1
+1327	Kobenhavn K	Vildandegade		False	1
+1328	Kobenhavn K	Svanegade		False	1
+1329	Kobenhavn K	Timiansgade		False	1
+1350	Kobenhavn K	oster Voldgade		False	1
+1352	Kobenhavn K	Rorholmsgade		False	1
+1353	Kobenhavn K	oster Farimagsgade 3-15 and 2		False	1
+1354	Kobenhavn K	Ole Suhrs Gade		False	1
+1355	Kobenhavn K	Gammeltoftsgade		False	1
+1356	Kobenhavn K	Bartholinsgade		False	1
+1357	Kobenhavn K	oster Sogade 8-36		False	1
+1358	Kobenhavn K	Norre Voldgade		False	1
+1359	Kobenhavn K	Ahlefeldtsgade		False	1
+1359	Kobenhavn K	Charlotte Ammundsens Plads		False	1
+1360	Kobenhavn K	Frederiksborggade		False	1
+1361	Kobenhavn K	Israels Plads		False	1
+1361	Kobenhavn K	Linnésgade		False	1
+1362	Kobenhavn K	Romersgade		False	1
+1363	Kobenhavn K	Vendersgade		False	1
+1364	Kobenhavn K	Norre Farimagsgade		False	1
+1365	Kobenhavn K	Schacksgade		False	1
+1366	Kobenhavn K	Nansensgade		False	1
+1367	Kobenhavn K	Kjeld Langes Gade		False	1
+1368	Kobenhavn K	Turesensgade		False	1
+1369	Kobenhavn K	Gyldenlovesgade lige nr.		False	1
+1370	Kobenhavn K	Norre Sogade		False	1
+1371	Kobenhavn K	Sotorvet		False	1
+1400	Kobenhavn K	Knippelsbro		False	1
+1400	Kobenhavn K	Torvegade		False	1
+1401	Kobenhavn K	Strandgade		False	1
+1402	Kobenhavn K	Asiatisk Plads		False	1
+1402	Kobenhavn K	David Balfours Gade		False	1
+1402	Kobenhavn K	Hammershoi Kaj		False	1
+1402	Kobenhavn K	Johan Semps Gade		False	1
+1402	Kobenhavn K	Nicolai Eigtveds Gade		False	1
+1403	Kobenhavn K	Wilders Plads		False	1
+1406	Kobenhavn K	Christianshavns Kanal		False	1
+1407	Kobenhavn K	Badsmandsstraede		False	1
+1408	Kobenhavn K	Wildersgade		False	1
+1409	Kobenhavn K	Knippelsbrogade		False	1
+1410	Kobenhavn K	Christianshavns Torv		False	1
+1411	Kobenhavn K	Langebrogade		False	1
+1411	Kobenhavn K	Applebys Plads		False	1
+1412	Kobenhavn K	Voldgarden		False	1
+1413	Kobenhavn K	Ved Kanalen		False	1
+1414	Kobenhavn K	Overgaden Neden Vandet		False	1
+1415	Kobenhavn K	Overgaden Oven Vandet		False	1
+1416	Kobenhavn K	Sankt Annae Gade		False	1
+1417	Kobenhavn K	Mikkel Vibes Gade		False	1
+1418	Kobenhavn K	Sofiegade		False	1
+1419	Kobenhavn K	Store Sondervoldstraede		False	1
+1420	Kobenhavn K	Dronningensgade		False	1
+1421	Kobenhavn K	Lille Sondervoldstraede		False	1
+1422	Kobenhavn K	Prinsessegade		False	1
+1423	Kobenhavn K	Amagergade		False	1
+1424	Kobenhavn K	Christianshavns Voldgade		False	1
+1425	Kobenhavn K	Ved Volden		False	1
+1426	Kobenhavn K	Voldboligerne		False	1
+1427	Kobenhavn K	Brobergsgade		False	1
+1428	Kobenhavn K	Andreas Bjorns Gade		False	1
+1429	Kobenhavn K	Burmeistersgade		False	1
+1430	Kobenhavn K	Bodenhoffs Plads		False	1
+1432	Kobenhavn K	Margretheholmsvej		False	1
+1432	Kobenhavn K	Refshalevej		False	1
+1432	Kobenhavn K	William Wains Gade		False	1
+1433	Kobenhavn K	Christiansholms o		False	1
+1433	Kobenhavn K	Flakfortet		False	1
+1433	Kobenhavn K	Lynetten		False	1
+1433	Kobenhavn K	Margretheholm		False	1
+1433	Kobenhavn K	Middelgrundsfortet		False	1
+1433	Kobenhavn K	Quintus		False	1
+1433	Kobenhavn K	Refshaleoen		False	1
+1434	Kobenhavn K	Danneskiold-Samsoes Allé		False	1
+1434	Kobenhavn K	Kuglegardsvej		False	1
+1435	Kobenhavn K	Philip De Langes Allé		False	1
+1436	Kobenhavn K	Arsenalvej		False	1
+1436	Kobenhavn K	Halvtolv		False	1
+1436	Kobenhavn K	Kuglegarden		False	1
+1436	Kobenhavn K	Soartillerivej		False	1
+1436	Kobenhavn K	Trangravsvej		False	1
+1436	Kobenhavn K	Vaerftsbroen		False	1
+1437	Kobenhavn K	Bohlendachvej		False	1
+1437	Kobenhavn K	Eik Skaloes Plads		False	1
+1437	Kobenhavn K	Fabrikmestervej		False	1
+1437	Kobenhavn K	Galionsvej		False	1
+1437	Kobenhavn K	Kanonbadsvej		False	1
+1437	Kobenhavn K	Leo Mathisens Vej		False	1
+1437	Kobenhavn K	Masteskursvej		False	1
+1437	Kobenhavn K	Per Knutzons Vej		False	1
+1437	Kobenhavn K	Schifters Kvarter		False	1
+1437	Kobenhavn K	Stibolts Kvarter		False	1
+1437	Kobenhavn K	Takkelloftsvej		False	1
+1437	Kobenhavn K	Theodor Christensens Plads		False	1
+1438	Kobenhavn K	Benstrups Kvarter		False	1
+1438	Kobenhavn K	Dokovej		False	1
+1438	Kobenhavn K	Ekvipagemestervej		False	1
+1438	Kobenhavn K	Judichaers Plads		False	1
+1438	Kobenhavn K	Orlogsvaerftvej		False	1
+1439	Kobenhavn K	A.H. Vedels Plads		False	1
+1439	Kobenhavn K	Bradbaenken		False	1
+1439	Kobenhavn K	Elefanten		False	1
+1439	Kobenhavn K	Eskadrevej		False	1
+1439	Kobenhavn K	H.C. Sneedorffs Allé		False	1
+1439	Kobenhavn K	Henrik Gerners Plads		False	1
+1439	Kobenhavn K	Henrik Spans Vej		False	1
+1439	Kobenhavn K	Kongebrovej		False	1
+1439	Kobenhavn K	Krudtlobsvej		False	1
+1439	Kobenhavn K	Minorvej		False	1
+1439	Kobenhavn K	P. Lovenorns Vej		False	1
+1439	Kobenhavn K	Spanteloftvej		False	1
+1439	Kobenhavn K	Takkeladsvej		False	1
+1439	Kobenhavn K	Ved Sixtusbatteriet		False	1
+1439	Kobenhavn K	Ved Sominegraven		False	1
+1440	Kobenhavn K	Bjornekloen		False	1
+1440	Kobenhavn K	Bla Karamel		False	1
+1440	Kobenhavn K	Fabriksomradet		False	1
+1440	Kobenhavn K	Fredens Ark		False	1
+1440	Kobenhavn K	Lovehuset		False	1
+1440	Kobenhavn K	Maelkebotten		False	1
+1440	Kobenhavn K	Maelkevejen		False	1
+1440	Kobenhavn K	Nordomradet		False	1
+1440	Kobenhavn K	Psyak		False	1
+1440	Kobenhavn K	Sydomradet		False	1
+1440	Kobenhavn K	Tinghuset		False	1
+1441	Kobenhavn K	Midtdyssen		False	1
+1441	Kobenhavn K	Norddyssen		False	1
+1441	Kobenhavn K	Syddyssen		False	1
+1448	Kobenhavn K	Asiatisk Plads 2	Udenrigsministeriet	False	1
+1450	Kobenhavn K	Nytorv		False	1
+1451	Kobenhavn K	Larslejsstraede		False	1
+1452	Kobenhavn K	Teglgardstraede		False	1
+1453	Kobenhavn K	Sankt Peders Straede		False	1
+1454	Kobenhavn K	Larsbjornsstraede		False	1
+1455	Kobenhavn K	Studiestraede 3-49 and 6-40		False	1
+1456	Kobenhavn K	Vestergade		False	1
+1457	Kobenhavn K	Gammeltorv		False	1
+1458	Kobenhavn K	Kattesundet		False	1
+1459	Kobenhavn K	Frederiksberggade		False	1
+1460	Kobenhavn K	Mikkel Bryggers Gade		False	1
+1461	Kobenhavn K	Slutterigade		False	1
+1462	Kobenhavn K	Lavendelstraede		False	1
+1463	Kobenhavn K	Farvergade		False	1
+1464	Kobenhavn K	Hestemollestraede		False	1
+1465	Kobenhavn K	Gasegade		False	1
+1466	Kobenhavn K	Radhusstraede		False	1
+1467	Kobenhavn K	Vandkunsten		False	1
+1468	Kobenhavn K	Longangstraede		False	1
+1470	Kobenhavn K	Stormgade 2-14		False	1
+1471	Kobenhavn K	Ny Vestergade		False	1
+1472	Kobenhavn K	Ny Kongensgade 1-15 and 4-14		False	1
+1473	Kobenhavn K	Bryghusgade		False	1
+1500	Kobenhavn V	Carsten Niebuhrs Gade 4	Vesterbro Postkontor	False	1
+1512	Returpost		(Internal)	False	1
+1513	Flytning og NejTak		(Internal)	False	1
+1532	Kobenhavn V	Kystvejen 26, 2770 Kastrup	International Mail Centre, returned mail + consignment	False	1
+1533	Kobenhavn V	Kystvejen 26, 2770 Kastrup	International Mail Centre	False	1
+1550	Kobenhavn V	Bag Radhuset		False	1
+1550	Kobenhavn V	Radhuspladsen		False	1
+1551	Kobenhavn V	Jarmers Plads		False	1
+1552	Kobenhavn V	Vester Voldgade		False	1
+1553	Kobenhavn V	H.C. Andersens Boulevard		False	1
+1553	Kobenhavn V	Langebro		False	1
+1554	Kobenhavn V	Studiestraede 57-69 and 50-54		False	1
+1555	Kobenhavn V	Stormgade 20 and 35		False	1
+1556	Kobenhavn V	Dantes Plads		False	1
+1557	Kobenhavn V	Ny Kongensgade 19-21 and 18-20		False	1
+1558	Kobenhavn V	Christiansborggade		False	1
+1559	Kobenhavn V	Christians Brygge 24-30		False	1
+1560	Kobenhavn V	Kalvebod Brygge		False	1
+1561	Kobenhavn V	Fisketorvet		False	1
+1561	Kobenhavn V	Kalvebod Pladsvej		False	1
+1562	Kobenhavn V	Hambrosgade		False	1
+1563	Kobenhavn V	Otto Monsteds Plads		False	1
+1564	Kobenhavn V	Rysensteensgade		False	1
+1567	Kobenhavn V	Polititorvet		False	1
+1568	Kobenhavn V	Mitchellsgade		False	1
+1569	Kobenhavn V	Edvard Falcks Gade		False	1
+1570	Kobenhavn V	Banegardspladsen		False	1
+1570	Kobenhavn V	Kobenhavns Hovedbanegard		False	1
+1571	Kobenhavn V	Otto Monsteds Gade		False	1
+1572	Kobenhavn V	Anker Heegaards Gade		False	1
+1573	Kobenhavn V	Puggaardsgade		False	1
+1574	Kobenhavn V	Niels Brocks Gade		False	1
+1575	Kobenhavn V	Ved Glyptoteket		False	1
+1576	Kobenhavn V	Stoltenbergsgade		False	1
+1577	Kobenhavn V	Arni Magnussons Gade		False	1
+1577	Kobenhavn V	Carsten Niebuhrs Gade		False	1
+1577	Kobenhavn V	Bernstorffsgade		False	1
+1592	Kobenhavn V	Bernstorffsgade 17-19	Kobenhavns Socialdirektorat	False	1
+1599	Kobenhavn V	Radhuspladsen 1 	Kobenhavns Radhus	False	1
+1600	Kobenhavn V	Gyldenlovesgade uneven numbers		False	1
+1601	Kobenhavn V	Vester Sogade		False	1
+1602	Kobenhavn V	Nyropsgade		False	1
+1603	Kobenhavn V	Dahlerupsgade		False	1
+1604	Kobenhavn V	Kampmannsgade		False	1
+1605	Kobenhavn V	Herholdtsgade		False	1
+1606	Kobenhavn V	Vester Farimagsgade		False	1
+1607	Kobenhavn V	Staunings Plads		False	1
+1608	Kobenhavn V	Jernbanegade		False	1
+1609	Kobenhavn V	Axeltorv		False	1
+1610	Kobenhavn V	Gammel Kongevej 1-55 and 10		False	1
+1611	Kobenhavn V	Hammerichsgade		False	1
+1612	Kobenhavn V	Ved Vesterport		False	1
+1613	Kobenhavn V	Meldahlsgade		False	1
+1614	Kobenhavn V	Trommesalen		False	1
+1615	Kobenhavn V	Sankt Jorgens Allé		False	1
+1616	Kobenhavn V	Stenosgade		False	1
+1617	Kobenhavn V	Bagerstraede		False	1
+1618	Kobenhavn V	Tullinsgade		False	1
+1619	Kobenhavn V	Vaernedamsvej even numbers		False	1
+1620	Kobenhavn V	Vesterbrogade 1-149 and 2-150		False	1
+1620	Kobenhavn V	Vesterbros Torv		False	1
+1621	Kobenhavn V	Frederiksberg Alle 1 - 13B		False	1
+1622	Kobenhavn V	Boyesgade ulige nr		False	1
+1623	Kobenhavn V	Kingosgade 1-9		False	1
+1624	Kobenhavn V	Brorsonsgade		False	1
+1630	Kobenhavn V	Vesterbrogade 3	Tivoli A/S	False	1
+1631	Kobenhavn V	Herman Triers Plads		False	1
+1632	Kobenhavn V	Julius Thomsens Gade even numbers		False	1
+1633	Kobenhavn V	Kleinsgade		False	1
+1634	Kobenhavn V	Rosenorns Allé 2-18		False	1
+1635	Kobenhavn V	aboulevard 1-13		False	1
+1650	Kobenhavn V	Istedgade		False	1
+1651	Kobenhavn V	Reventlowsgade		False	1
+1652	Kobenhavn V	Colbjornsensgade		False	1
+1653	Kobenhavn V	Helgolandsgade		False	1
+1654	Kobenhavn V	Abel Cathrines Gade		False	1
+1655	Kobenhavn V	Viktoriagade		False	1
+1656	Kobenhavn V	Gasvaerksvej		False	1
+1657	Kobenhavn V	Eskildsgade		False	1
+1658	Kobenhavn V	Absalonsgade		False	1
+1659	Kobenhavn V	Svendsgade		False	1
+1660	Kobenhavn V	Dannebrogsgade		False	1
+1660	Kobenhavn V	Otto Krabbes Plads		False	1
+1661	Kobenhavn V	Westend		False	1
+1662	Kobenhavn V	Saxogade		False	1
+1663	Kobenhavn V	Oehlenschlaegersgade		False	1
+1664	Kobenhavn V	Kaalundsgade		False	1
+1665	Kobenhavn V	Valdemarsgade		False	1
+1666	Kobenhavn V	Matthaeusgade		False	1
+1667	Kobenhavn V	Frederiksstadsgade		False	1
+1668	Kobenhavn V	Mysundegade		False	1
+1669	Kobenhavn V	Flensborggade		False	1
+1670	Kobenhavn V	Enghave Plads		False	1
+1671	Kobenhavn V	Haderslevgade		False	1
+1671	Kobenhavn V	Tove Ditlevsens Plads		False	1
+1672	Kobenhavn V	Broagergade		False	1
+1673	Kobenhavn V	Ullerupgade		False	1
+1674	Kobenhavn V	Enghavevej 1-77 and 2-78		False	1
+1675	Kobenhavn V	Kongshojgade		False	1
+1676	Kobenhavn V	Sankelmarksgade		False	1
+1677	Kobenhavn V	Grastensgade		False	1
+1699	Kobenhavn V	Staldgade		False	1
+1700	Kobenhavn V	Halmtorvet		False	1
+1701	Kobenhavn V	Reverdilsgade		False	1
+1702	Kobenhavn V	Stampesgade		False	1
+1703	Kobenhavn V	Lille Colbjornsensgade		False	1
+1704	Kobenhavn V	Tietgensgade		False	1
+1705	Kobenhavn V	Ingerslevsgade		False	1
+1706	Kobenhavn V	Lille Istedgade		False	1
+1707	Kobenhavn V	Maria Kirkeplads		False	1
+1708	Kobenhavn V	Eriksgade		False	1
+1709	Kobenhavn V	Skydebanegade		False	1
+1710	Kobenhavn V	Kvaegtorvsgade		False	1
+1711	Kobenhavn V	Flaesketorvet		False	1
+1711	Kobenhavn V	Onkel Dannys Plads		False	1
+1712	Kobenhavn V	Hokerboderne		False	1
+1714	Kobenhavn V	Kodboderne		False	1
+1715	Kobenhavn V	Slagtehusgade		False	1
+1716	Kobenhavn V	Slagterboderne		False	1
+1717	Kobenhavn V	Skelbaekgade		False	1
+1718	Kobenhavn V	Sommerstedgade		False	1
+1719	Kobenhavn V	Krusagade		False	1
+1720	Kobenhavn V	Sonder Boulevard		False	1
+1721	Kobenhavn V	Dybbolsgade		False	1
+1722	Kobenhavn V	Godsbanegade		False	1
+1723	Kobenhavn V	Letlandsgade		False	1
+1724	Kobenhavn V	Estlandsgade		False	1
+1725	Kobenhavn V	Esbern Snares Gade		False	1
+1726	Kobenhavn V	Arkonagade		False	1
+1727	Kobenhavn V	Asger Rygs Gade		False	1
+1728	Kobenhavn V	Skjalm Hvides Gade		False	1
+1729	Kobenhavn V	Sigerstedgade		False	1
+1730	Kobenhavn V	Knud Lavards Gade		False	1
+1731	Kobenhavn V	Erik Ejegods Gade		False	1
+1732	Kobenhavn V	Bodilsgade		False	1
+1733	Kobenhavn V	Palnatokesgade		False	1
+1734	Kobenhavn V	Heilsgade		False	1
+1735	Kobenhavn V	Roddinggade		False	1
+1736	Kobenhavn V	Bevtoftgade		False	1
+1737	Kobenhavn V	Bustrupgade		False	1
+1738	Kobenhavn V	Stenderupgade		False	1
+1739	Kobenhavn V	Enghave Passage		False	1
+1749	Kobenhavn V	Rahbeks Allé 3-11		False	1
+1750	Kobenhavn V	Vesterfaelledvej 1-9 and 2-56		False	1
+1751	Kobenhavn V	Sundevedsgade		False	1
+1752	Kobenhavn V	Tondergade		False	1
+1753	Kobenhavn V	Ballumgade		False	1
+1754	Kobenhavn V	Hedebygade		False	1
+1755	Kobenhavn V	Mogeltondergade		False	1
+1756	Kobenhavn V	Amerikavej		False	1
+1757	Kobenhavn V	Trojborggade		False	1
+1758	Kobenhavn V	Lyrskovgade		False	1
+1759	Kobenhavn V	Rejsbygade		False	1
+1760	Kobenhavn V	Ny Carlsberg Vej 1-37 and 2-66		False	1
+1761	Kobenhavn V	Ejderstedgade		False	1
+1762	Kobenhavn V	Slesvigsgade		False	1
+1763	Kobenhavn V	Dannevirkegade		False	1
+1764	Kobenhavn V	Alsgade		False	1
+1765	Kobenhavn V	Angelgade		False	1
+1766	Kobenhavn V	Slien		False	1
+1770	Kobenhavn V	Carstensgade		False	1
+1771	Kobenhavn V	Lundbyesgade		False	1
+1772	Kobenhavn V	Ernst Meyers Gade		False	1
+1773	Kobenhavn V	Bissensgade		False	1
+1774	Kobenhavn V	Küchlersgade		False	1
+1775	Kobenhavn V	Freundsgade		False	1
+1777	Kobenhavn V	Jerichausgade		False	1
+1780	Kobenhavn V		Business customers	False	1
+1785	Kobenhavn V	Radhuspladsen 33 and 37	Politiken and Ekstrabladet	False	1
+1786	Kobenhavn V	Vesterbrogade 8	Nordea	False	1
+1787	Kobenhavn V	H.C. Andersens Boulevard 18	Dansk Industri	False	1
+1790	Kobenhavn V		Business customers	False	1
+1799	Kobenhavn V	Bag Elefanterne		False	1
+1799	Kobenhavn V	Banevolden 2		False	1
+1799	Kobenhavn V	Bjerregardsvej 5 and 7		False	1
+1799	Kobenhavn V	Bryggernes Plads		False	1
+1799	Kobenhavn V	Gamle Carlsberg Vej		False	1
+1799	Kobenhavn V	Kammasvej 2, 4 and 6		False	1
+1799	Kobenhavn V	Ny Carlsberg Vej from 39 and from 68		False	1
+1799	Kobenhavn V	Ottilia Jacobsens Plads		False	1
+1799	Kobenhavn V	Pasteursvej		False	1
+1799	Kobenhavn V	Rahbeks Allé 13-15		False	1
+1799	Kobenhavn V	Valby Langgade 1		False	1
+1799	Kobenhavn V	Vesterfaelledvej 58-110		False	1
+1800	Frederiksberg C	Vesterbrogade 161-191 and 162-208		False	1
+1801	Frederiksberg C	Rahbeks Alle 2-36		False	1
+1802	Frederiksberg C	Halls Alle		False	1
+1803	Frederiksberg C	Brondsteds Alle		False	1
+1804	Frederiksberg C	Bakkegards Alle		False	1
+1805	Frederiksberg C	Kammasvej 3		False	1
+1806	Frederiksberg C	Jacobys Alle		False	1
+1807	Frederiksberg C	Schlegels Alle		False	1
+1808	Frederiksberg C	Asmussens Alle		False	1
+1809	Frederiksberg C	Frydendalsvej		False	1
+1810	Frederiksberg C	Platanvej		False	1
+1811	Frederiksberg C	Asgardsvej		False	1
+1812	Frederiksberg C	Kochsvej		False	1
+1813	Frederiksberg C	Henrik Ibsens Vej		False	1
+1814	Frederiksberg C	Carit Etlars Vej		False	1
+1815	Frederiksberg C	Paludan Müllers Vej		False	1
+1816	Frederiksberg C	Engtoftevej		False	1
+1817	Frederiksberg C	Carl Bernhards Vej		False	1
+1818	Frederiksberg C	Kingosgade 11-17 and 8-10		False	1
+1819	Frederiksberg C	Vaernedamsvej uneven numbers		False	1
+1820	Frederiksberg C	Frederiksberg Alle 15-63 and 2-104		False	1
+1822	Frederiksberg C	Boyesgade even numbers		False	1
+1823	Frederiksberg C	Haveselskabetsvej		False	1
+1824	Frederiksberg C	Sankt Thomas Alle		False	1
+1825	Frederiksberg C	Hauchsvej		False	1
+1826	Frederiksberg C	Alhambravej		False	1
+1827	Frederiksberg C	Mynstersvej		False	1
+1828	Frederiksberg C	Martensens Alle		False	1
+1829	Frederiksberg C	Madvigs Alle		False	1
+1850	Frederiksberg C	Gammel Kongevej 85-179 and 60-178		False	1
+1851	Frederiksberg C	Nyvej		False	1
+1852	Frederiksberg C	Amicisvej		False	1
+1853	Frederiksberg C	Maglekildevej		False	1
+1854	Frederiksberg C	Dr. Priemes Vej		False	1
+1855	Frederiksberg C	Hollaendervej		False	1
+1856	Frederiksberg C	Edisonsvej		False	1
+1857	Frederiksberg C	Hortensiavej		False	1
+1860	Frederiksberg C	Christian Winthers Vej		False	1
+1861	Frederiksberg C	Sagasvej		False	1
+1862	Frederiksberg C	Rathsacksvej		False	1
+1863	Frederiksberg C	Ceresvej		False	1
+1864	Frederiksberg C	Grundtvigsvej		False	1
+1865	Frederiksberg C	Grundtvigs Sidevej		False	1
+1866	Frederiksberg C	Henrik Steffens Vej		False	1
+1867	Frederiksberg C	Acaciavej		False	1
+1868	Frederiksberg C	Bianco Lunos Alle		False	1
+1870	Frederiksberg C	Bülowsvej		False	1
+1871	Frederiksberg C	Thorvaldsensvej		False	1
+1872	Frederiksberg C	Bomhoffs Have		False	1
+1873	Frederiksberg C	Helenevej		False	1
+1874	Frederiksberg C	Harsdorffsvej		False	1
+1875	Frederiksberg C	Amalievej		False	1
+1876	Frederiksberg C	Kastanievej		False	1
+1877	Frederiksberg C	Lindevej		False	1
+1878	Frederiksberg C	Uraniavej		False	1
+1879	Frederiksberg C	H.C. orsteds Vej		False	1
+1900	Frederiksberg C	Vodroffsvej		False	1
+1901	Frederiksberg C	Tarnborgvej		False	1
+1902	Frederiksberg C	Lykkesholms Alle		False	1
+1903	Frederiksberg C	Sankt Knuds Vej		False	1
+1904	Frederiksberg C	Forhabningsholms Alle		False	1
+1905	Frederiksberg C	Svanholmsvej		False	1
+1906	Frederiksberg C	Schonbergsgade		False	1
+1908	Frederiksberg C	Prinsesse Maries Alle		False	1
+1909	Frederiksberg C	Vodroffs Tvaergade		False	1
+1910	Frederiksberg C	Danasvej		False	1
+1911	Frederiksberg C	Niels Ebbesens Vej		False	1
+1912	Frederiksberg C	Svend Trosts Vej		False	1
+1913	Frederiksberg C	Carl Plougs Vej		False	1
+1914	Frederiksberg C	Vodroffslund		False	1
+1915	Frederiksberg C	Danas Plads		False	1
+1916	Frederiksberg C	Norsvej		False	1
+1917	Frederiksberg C	Sveasvej		False	1
+1920	Frederiksberg C	Forchhammersvej		False	1
+1921	Frederiksberg C	Sankt Markus Plads		False	1
+1922	Frederiksberg C	Sankt Markus Alle		False	1
+1923	Frederiksberg C	Johnstrups Alle		False	1
+1924	Frederiksberg C	Steenstrups Alle		False	1
+1925	Frederiksberg C	Julius Thomsens Plads		False	1
+1926	Frederiksberg C	Martinsvej		False	1
+1927	Frederiksberg C	Suomisvej		False	1
+1928	Frederiksberg C	Filippavej		False	1
+1950	Frederiksberg C	Hostrupsvej		False	1
+1951	Frederiksberg C	Christian Richardts Vej		False	1
+1952	Frederiksberg C	Falkonervaenget		False	1
+1953	Frederiksberg C	Sankt Nikolaj Vej		False	1
+1954	Frederiksberg C	Hostrups Have		False	1
+1955	Frederiksberg C	Dr. Abildgaards Alle		False	1
+1956	Frederiksberg C	L.I. Brandes Alle		False	1
+1957	Frederiksberg C	N.J. Fjords Alle		False	1
+1958	Frederiksberg C	Rolighedsvej		False	1
+1959	Frederiksberg C	Falkonergardsvej		False	1
+1960	Frederiksberg C	aboulevard 15-55		False	1
+1961	Frederiksberg C	J.M. Thieles Vej		False	1
+1962	Frederiksberg C	Fuglevangsvej		False	1
+1963	Frederiksberg C	Bille Brahes Vej		False	1
+1964	Frederiksberg C	Ingemannsvej		False	1
+1965	Frederiksberg C	Erik Menveds Vej		False	1
+1966	Frederiksberg C	Steenwinkelsvej		False	1
+1967	Frederiksberg C	Svanemosegardsvej		False	1
+1970	Frederiksberg C	Rosenorns Alle 1-67 and 22-70		False	1
+1971	Frederiksberg C	Adolph Steens Alle		False	1
+1972	Frederiksberg C	Worsaaesvej		False	1
+1973	Frederiksberg C	Jakob Dannefaerds Vej		False	1
+1974	Frederiksberg C	Julius Thomsens Gade uevan numbers		False	1
+2000	Frederiksberg			False	1
+2100	Kobenhavn o			False	1
+2150	Nordhavn			False	1
+2200	Kobenhavn N			False	1
+2300	Kobenhavn S			False	1
+2400	Kobenhavn NV			False	1
+2412	Gronland	Post til Julemanden			
+2450	Kobenhavn SV			False	1
+2500	Valby			False	1
+2600	Glostrup			True	1
+2605	Brondby			True	1
+2610	Rodovre			True	1
+2620	Albertslund			True	1
+2625	Vallensbaek			True	1
+2630	Taastrup			True	1
+2635	Ishoj			True	1
+2640	Hedehusene			True	1
+2650	Hvidovre			True	1
+2660	Brondby Strand			True	1
+2665	Vallensbaek Strand			True	1
+2670	Greve			True	1
+2680	Solrod Strand			True	1
+2690	Karlslunde			True	1
+2700	Bronshoj			False	1
+2720	Vanlose			False	1
+2730	Herlev			True	1
+2740	Skovlunde			True	1
+2750	Ballerup			True	1
+2760	Malov			True	1
+2765	Smorum			True	1
+2770	Kastrup			True	1
+2791	Dragor			True	1
+2800	Kongens Lyngby			True	1
+2820	Gentofte			True	1
+2830	Virum			True	1
+2840	Holte			True	1
+2850	Naerum			True	1
+2860	Soborg			True	1
+2870	Dyssegard			True	1
+2880	Bagsvaerd			True	1
+2900	Hellerup			True	1
+2920	Charlottenlund			True	1
+2930	Klampenborg			True	1
+2942	Skodsborg			True	1
+2950	Vedbaek			True	1
+2960	Rungsted Kyst			True	1
+2970	Horsholm			True	1
+2980	Kokkedal			True	1
+2990	Niva			True	1
+3000	Helsingor			True	1
